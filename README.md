@@ -24,7 +24,8 @@
 
 
 ## Menú Principal :
-![Screenshot_20210819-221725_Termux](https://user-images.githubusercontent.com/81049859/130170231-56e6e0c4-8757-447c-adbc-d524ca8e8e28.png)
+![Screenshot_20220522-210714_Termux](https://user-images.githubusercontent.com/81049859/169725377-e487e273-c123-42b6-ad5c-04338c7a44f6.png)
+
 
 
 ## BashScriptCj7 :
