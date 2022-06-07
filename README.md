@@ -13,7 +13,6 @@
 
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-
 <details>
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
@@ -22,11 +21,8 @@
 
 </details>
 
-
 ## Menú Principal :
 ![Screenshot_20220522-210714_Termux](https://user-images.githubusercontent.com/81049859/169725377-e487e273-c123-42b6-ad5c-04338c7a44f6.png)
-
-
 
 ## BashScriptCj7 :
 * Introducción Básica a **BashScript**.
@@ -42,8 +38,9 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* `apt update && apt upgrade -y`
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * `git clone https://github.com/Juliocj7/BashScriptCj7`
 
 * `cd BashScriptCj7`
