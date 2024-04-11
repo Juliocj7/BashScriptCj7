@@ -25,9 +25,10 @@
 ## Menú Principal :
 ![1000328336](https://github.com/Juliocj7/BashScriptCj7/assets/81049859/67e79f98-baa8-4e70-92e2-763a948508ff)
 
+* Complemento a este curso: [AQUI](https://github.com/Juliocj7/BashColorCj7)
+
 ## BashScriptCj7 :
 * Introducción Básica a **BashScript**.
-* Guía complementaria a este curso >>> [BashColorCj7](https://github.com/Juliocj7/BashColorCj7)
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
