@@ -45,10 +45,14 @@ ______________________________________________________
 ## Menú Principal :
 ![1000328336](https://github.com/Juliocj7/BashScriptCj7/assets/81049859/67e79f98-baa8-4e70-92e2-763a948508ff)
 
-* Complemento a este curso: [AQUI](https://github.com/Juliocj7/BashColorCj7)
+<div align="center">
+
+  > Complemento a este curso: [**`AQUI`**](https://github.com/Juliocj7/BashColorCj7)
+
+</div>
 
 ## BashScriptCj7 :
-* Introducción Básica a **BashScript**.
+* Curso básico de Shell Scripting (introducción básica a **BashScript**).
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -56,17 +60,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* `git clone https://github.com/Juliocj7/BashScriptCj7`
-
-* `cd BashScriptCj7`
-
-* `chmod +x *`
-
-* `./BashScriptCj7`
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/BashScriptCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd BashScriptCj7 && chmod +x * && ./BashScriptCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
