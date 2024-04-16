@@ -52,7 +52,7 @@ ______________________________________________________
 </div>
 
 ## BashScriptCj7 :
-* Curso básico de **Shell Scripting** (introducción básica a BashScript).
+* Curso básico de **Shell Scripting** (guía e introducción a la sintaxis en BashScript).
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
